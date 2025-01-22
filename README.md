@@ -1,7 +1,7 @@
 # annie-list
-A beautifully animated list in Vue.js.
+A beautifully animated list in Vue.js. Preivew at [https://annie-list.vercel.app/](https://annie-list.vercel.app/)
 
-# Development Server
+## Development Server
 
 Start the development server on `http://localhost:3000`:
 
